@@ -10,4 +10,4 @@ Lösung:
 Bei Dokumenten bei denen oft derselbe Name vergeben wird, z.B. „Antrag“, „Rechnung“, „Bauplan“, „Zeugnis“, „Bankauszug“, „Personalausweis“ kann die beiliegende Funktion die Arbeit erleichtern indem beim Einscannen ein Blatt mit dem entsprechenden Dateinamen vorangestellt wird (Dieses Blatt kann immer wieder verwendet werden).
 Die Funktion liest den Inhalt der ersten Seite aus und benennt das Dokument entsprechend. Das vorangestellte Blatt, das für die Dateibenennung relevant war, wird aus der Datei entfernt, die der Nutzer im Verzeichnis findet.
 
-Dateiname direkt nach dem Scannen:
+![grafik](https://user-images.githubusercontent.com/66714895/103207464-ac078880-48fe-11eb-867a-4d9f3a0d0f6c.png)
